@@ -1,11 +1,4 @@
 # jiscop85-
-Here’s an **ultra-customized, visually engaging, and fun** `README.md` for your GitHub profile. This version is packed with:  
-- **🔥 Animated GIFs**  
-- **🎨 Stylish markdown formatting**  
-- **🤖 Interactive badges**  
-- **🚀 AI-themed humor**  
-
----
 
 **👋 Welcome to Jisc_op's AI Universe! 🤖🚀**  
 ![AI Developer](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)  
