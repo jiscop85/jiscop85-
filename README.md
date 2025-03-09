@@ -163,3 +163,11 @@ Tech: Reinforcement Learning | Neural Networks
 </div>
 
 ###
+<div align="center">
+  <img src="https://github.com/Jisc_op/Jisc_op/blob/output/snake.svg" alt="Snake animation"/>
+</div>
+
+### 🌑 Dark Mode Snake
+<div align="center">
+  <img src="https://github.com/Jisc_op/Jisc_op/blob/output/snake-dark.svg" alt="Dark Snake animation"/>
+</div>
